@@ -1729,7 +1729,7 @@ a {
   margin-top: auto !important;
 }
 .cid-ty8GroqJvD .mbr-section-title {
-  color: #232323;
+  color: #22a5e5;
 }
 .cid-ty8GroqJvD .mbr-text,
 .cid-ty8GroqJvD .mbr-section-btn {
@@ -1757,6 +1757,9 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-tx1RBqqJE4 .mbr-section-title {
+  color: #22a5e5;
 }
 .cid-tx1vehnTff {
   padding-top: 5rem;
@@ -3184,9 +3187,62 @@ a {
     left: -1rem;
   }
 }
+.cid-tyTAk87WK0 {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tyTAk87WK0 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tyTAk87WK0 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tyTAk87WK0 .content-wrapper {
+  background: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-tyTAk87WK0 .content-wrapper .row {
+    flex-direction: column-reverse;
+  }
+  .cid-tyTAk87WK0 .content-wrapper .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tyTAk87WK0 .content-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-tyTAk87WK0 .content-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tyTAk87WK0 .content-wrapper {
+    padding: 5rem 3rem;
+  }
+  .cid-tyTAk87WK0 .content-wrapper .text-wrapper {
+    padding-right: 2rem;
+  }
+}
+.cid-tyTAk87WK0 .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-tyTAk87WK0 .card-title {
+  color: #22a5e5;
+}
 .cid-tx1x6Zff4J {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-tx1x6Zff4J .mbr-fallback-image.disabled {
@@ -3218,6 +3274,17 @@ a {
   font-weight: bold;
   font-size: 2rem;
   width: 1.6rem;
+}
+.cid-tx1x6Zff4J H3 {
+  color: #232323;
+}
+.cid-tx1x6Zff4J .list {
+  color: #232323;
+}
+.cid-tyTw9mbyrs {
+  padding-top: 0rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
 .cid-tx1vehnTff {
   padding-top: 5rem;
